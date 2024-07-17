@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ImagesFolderExist&SequenceX_1",
+        "PDFsFolderExists&SequenceX_1",
+        "PresentationFolderExists&SequenceX_1",
+        "SpreadsheetsFolderExists&SequenceX_1",
+        "ChosenFileInfo&SequenceX_1",
+        "ChosenFilePath&SequenceX_1",
+        "FolderToOrganize&SequenceX_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
