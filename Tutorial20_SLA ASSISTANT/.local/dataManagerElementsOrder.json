@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TicketRequest&SequenceX_1",
+        "TicketNumber&SequenceX_1",
+        "RequestAndNumber&SequenceX_1",
+        "SLA_HardwareIssue&SequenceX_1",
+        "SLA_HardwarePurchase&SequenceX_1",
+        "SLA_SoftwareIssue&SequenceX_1",
+        "SLA_SoftwarePurchase&SequenceX_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
